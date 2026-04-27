@@ -149,22 +149,6 @@ Agreement with external sources would increase confidence in the model's output.
 
 ---
 
-## 🚀 How to Run
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/esg-anomaly-detection.git
-cd esg-anomaly-detection
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Open the notebook
-jupyter notebook notebook.ipynb
-```
-
----
-
 ## 📦 Requirements
 
 ```
